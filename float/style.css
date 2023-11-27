@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    width: 100%;
+}
+header{
+    background-color: rgb(255, 134, 134);
+    text-align: center;
+    height: 50px;
+}
+.sidebar{
+    float: left;
+    width: 50%;
+}
+nav{
+    background-color: rgb(255, 112, 87);
+    height: 350px;
+    text-align: center;
+
+}
+aside{
+    background-color: rgb(238, 102, 84);
+    height: 350px;
+    text-align: center;
+}
+main{
+    float: right;
+    width: 50%;
+    background-color: rgb(236, 90, 54);
+    height: 700px;
+    text-align: center;
+
+}
+footer{
+    background-color: rgb(243, 145, 145);
+    text-align: center;
+    height: 50%;
+}
